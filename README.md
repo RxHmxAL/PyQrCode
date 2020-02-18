@@ -1,12 +1,11 @@
 Generate QR_Code & Scanner File 
-Build With pyqrcode, qrtools, and PIL Python Module
+Build With pyqrcode, qrtools, and pypng Python Module
 
 U Must Install All Requirements
 like:
 - pyqrcode
 - pypng
 - qrtools
-- Pillow
 
 If U Already Install Requirements Module, U Can Start This Program ^_^
 
