@@ -13,3 +13,6 @@ command to start program:
 python2 gen+scan.py
 
 I use python2 cause, I like This python Version ^_^
+
+NOTE :
+STABLE ON LINUX FOR WIN & TERMUX IS NOT STABLE YET, CAUSE SOME MODULE DIFICULT TO IMPORT IN WIN & TERMUX
