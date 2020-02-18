@@ -1,5 +1,4 @@
-import PIL, qrtools, pyqrcode, sys, os
-from PIL import Image
+import qrtools, pyqrcode, sys, os
 from qrtools import QR
 
 def scan():
