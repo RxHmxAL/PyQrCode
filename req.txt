@@ -1,3 +1,4 @@
 pyqrcode
 qrtools
 pypng
+zbar-py
